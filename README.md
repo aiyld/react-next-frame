@@ -1,7 +1,7 @@
 # react-next-frame
 React + nextjs + i18n + less + redux + router + eslint + axios full framework
 
-[![npm version](https://img.shields.io/npm/v/react.svg?style=flat-square)](https://www.npmjs.com/package/React)
+[![react version](https://img.shields.io/npm/v/react.svg?style=flat-square)](https://www.npmjs.com/package/React)
 
 
 好用的工具千千万万，方便的框架万里挑一。为了能更好、快速、科学的开发项目，便研发出了此框架。它的实现的目标如下：
