@@ -1,4 +1,4 @@
-# react-next-frame
+# react-next-framework
 React + nextjs + i18n + less + redux + router + eslint + axios full framework
 
 好用的工具千千万万，方便的框架万里挑一。为了能更好、快速、科学的开发项目，便研发出了此框架。它的实现的目标如下：
