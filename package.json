@@ -7,8 +7,7 @@
     "dev": "node server/index.js",
     "build": "next build",
     "start": "next start",
-    "online": "cross-env NODE_ENV=production node server/index.js",
-    "deploy": "pm2 startOrRestart ecosystem.json --only samyoc_project --env production"
+    "online": "cross-env NODE_ENV=production node server/index.js"
   },
   "keywords": [
     "react;next;server;i18n"
