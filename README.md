@@ -13,16 +13,29 @@ React + nextjs + i18n + less + redux + router + eslint + axios full framework
 ### 目录结构说明
 
 assets                ---  css  放置样式文件
+
                           |
+
                           | --- pages 放置页面相关样式
+
                           | --- common.less 公共样式
+
 components            组件
+
 lib                   相关工具
+
 locales               多语言文件文件
+
 pages                 页面
+
 server                服务端渲染
+
 static                放置静态文件
+
 store                 状态管理
+
 .eslintrc.js          Eslint配置
+
 .gitignore            git管理
+
 next.config.js        next配置
