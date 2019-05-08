@@ -1,5 +1,5 @@
 {
-  "name": "react-next-frame",
+  "name": "react-next-framework",
   "version": "1.0.0",
   "description": "An i18n next app with server side rendering",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "online": "cross-env NODE_ENV=production node server/index.js"
   },
   "keywords": [
-    "react;next;server;i18n"
+    "react;next;server;i18n;redux;axios;"
   ],
   "author": "aiyld@hotmail.com",
   "license": "ISC",

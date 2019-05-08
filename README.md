@@ -1,6 +1,8 @@
 # react-next-framework
 React + nextjs + i18n + less + redux + router + eslint + axios full framework
 
+[![npm version](https://img.shields.io/npm/v/react-next-framework.svg?style=flat-square)](https://www.npmjs.com/package/react-next-framework) [![npm downloads](https://img.shields.io/npm/dm/react-next-framework.svg?style=flat-square)](https://www.npmjs.com/package/react-next-framework)
+
 好用的工具千千万万，方便的框架万里挑一。为了能更好、快速、科学的开发项目，便研发出了此框架。它的实现的目标如下：
 - [x]  1. 结合Nextjs和express实现React服务端渲染，SEO优化合理；
 - [x]  2. 支持多语言功能，能自动提取项目中的中文内容，生成翻译文件；
