@@ -1,6 +1,6 @@
 {
   "name": "react-next-framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An i18n next app with server side rendering",
   "main": "index.js",
   "scripts": {
