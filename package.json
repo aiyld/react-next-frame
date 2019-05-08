@@ -1,6 +1,6 @@
 {
   "name": "react-next-framework",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An i18n next app with server side rendering",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,12 @@
     "online": "cross-env NODE_ENV=production node server/index.js"
   },
   "keywords": [
-    "react;next;server;i18n;redux;axios;"
+    "react",
+    "next",
+    "server",
+    "i18n",
+    "redux",
+    "axios"
   ],
   "repository": {
     "type": "git",
