@@ -47,4 +47,12 @@ npm run build
 npm run online
 ```
 
+### 作者
+英文名：YLD，又名Winter
+邮箱：aiyld@hotmail.com
+Github：https://github.com/aiyld
+个人网站： http://www.yanglidong.com
+个人博客产品：[SamYoc https://www.samyoc.com](https://www.samyoc.com)
+个人文档产品：[在线文档 https://doc.samyoc.com](https://doc.samyoc.com)
+
 好用的工具千千万万，方便的框架万里挑一...
