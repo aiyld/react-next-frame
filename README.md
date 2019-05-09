@@ -1,5 +1,5 @@
 # react-next-framework
-React + nextjs + i18n + less + redux + router + eslint + axios full framework
+React + NextJs + i18n + Less + Redux + Router + Eslint + Axios + Bootstrap full framework
 
 [![npm version](https://img.shields.io/npm/v/react-next-framework.svg?style=flat-square)](https://www.npmjs.com/package/react-next-framework) [![npm downloads](https://img.shields.io/npm/dm/react-next-framework.svg?style=flat-square)](https://www.npmjs.com/package/react-next-framework)
 
