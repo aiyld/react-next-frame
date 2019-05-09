@@ -15,7 +15,6 @@ React + nextjs + i18n + less + redux + router + eslint + axios full framework
 ### 快速以此模板创建项目
 ```
 npx yld-cli init <your-project-name>
-
 ```
 
 ### 目录结构说明
@@ -33,6 +32,20 @@ npx yld-cli init <your-project-name>
 |-- .eslintrc.js          Eslint配置
 |-- .gitignore            git管理
 |-- next.config.js        next配置
+```
+
+### 开发环境
+```
+npm i
+npm run dev
+```
+
+### 生产环境
+```
+npm i
+npm run build
+npm run online
+
 ```
 
 好用的工具千千万万，方便的框架万里挑一...
