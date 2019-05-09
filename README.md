@@ -1,5 +1,7 @@
 # react-next-framework
-React + NextJs + i18n + Less + Redux + Router + Eslint + Axios + Bootstrap full framework
+React full framework 主要包含以下模块：
+
+React + NextJs + i18n + Less + Redux + Router + Eslint + Axios + Bootstrap
 
 [![npm version](https://img.shields.io/npm/v/react-next-framework.svg?style=flat-square)](https://www.npmjs.com/package/react-next-framework) [![npm downloads](https://img.shields.io/npm/dm/react-next-framework.svg?style=flat-square)](https://www.npmjs.com/package/react-next-framework)
 
